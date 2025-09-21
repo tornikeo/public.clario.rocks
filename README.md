@@ -18,6 +18,11 @@
 
 ---
 
+
+DEMO
+
+[![Watch the demo](docs/image.png)](https://youtu.be/z0pn-rbbYcs)
+
 ## 🚀 Features
 
 - **RSS News Aggregation**: Collect raw news data from various sources.
